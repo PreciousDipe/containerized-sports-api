@@ -14,6 +14,7 @@ This project demonstrates building a containerized API management system for que
 ---
 
 ## **Technical Architecture**
+![Architecture](https://github.com/PreciousDipe/containerized-sports-api/blob/main/SPORTS%20API.jpg)
 ---
 
 ## **Technologies**
